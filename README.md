@@ -1,0 +1,2 @@
+# GoInterfaceChallenge2
+Requirements:
